@@ -21,5 +21,5 @@
 
 ## 📫 Contacto
 
-- [LinkedIn]([https://www.linkedin.com/in/manuel-sanchez-lujan/](https://www.linkedin.com/in/manuel-sanchez-data-analyst/))
+- [LinkedIn](https://www.linkedin.com/in/manuel-sanchez-lujan/](https://www.linkedin.com/in/manuel-sanchez-data-analyst/)
 - 📧 16creatore@gmail.com
